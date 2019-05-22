@@ -19,6 +19,8 @@ namespace CICDTeamcity.Controllers
 
             return View();
             //test
+
+            //ok
         }
 
         public ActionResult Contact()
